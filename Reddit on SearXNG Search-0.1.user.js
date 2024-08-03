@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Reddit on SearXNG
+// @name         Reddit on SearXNG Search
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Add site:reddit.com to SearXNG search queries on button click
