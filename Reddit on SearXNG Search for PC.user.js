@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Reddit on SearXNG Search
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Kdroidwin/Reddit-on-SearXNG-Search
 // @version      0.1
 // @description  Add site:reddit.com to SearXNG search queries on button click
-// @author       Your Name
+// @author       Kdroidwin
 // @match        https://priv.au/*
 // @match        https://search.inetol.net/*
 // @match        https://searx.tiekoetter.com/*
