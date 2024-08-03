@@ -1,4 +1,4 @@
-# Reddit-on-SearXNG-Search
+# Reddit on SearXNG Search
 Search Reddit using SearXNG
 searXNGでredditだけに絞り込んだ検索を行う
 
