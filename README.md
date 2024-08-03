@@ -9,4 +9,4 @@ searXNGでredditだけに絞り込んだ検索を行う
 - searx.tiekoetter.com
 
 # Install
-releaae
+Releaaes
