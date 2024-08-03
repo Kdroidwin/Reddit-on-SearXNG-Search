@@ -9,7 +9,8 @@ searXNGでredditだけに絞り込んだ検索を行う
 - searx.tiekoetter.com
 
 # Install
-Releaaes
+まずtampermonkeyやvioletmonkeyなどをインストールしてください。
+その後リリースからjsファイルをクリックしてインストール可能です。
 
 # Please give the repo a ⭐
 
