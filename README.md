@@ -7,3 +7,6 @@ searXNGでredditだけに絞り込んだ検索を行う
 - priv.au
 - search.inetol.net
 - searx.tiekoetter.com
+
+# Install
+releaae
