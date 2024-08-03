@@ -10,3 +10,5 @@ searXNGでredditだけに絞り込んだ検索を行う
 
 # Install
 Releaaes
+
+Give me stars
