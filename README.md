@@ -10,7 +10,11 @@ searXNGでredditだけに絞り込んだ検索を行う
 
 # Install
 まずtampermonkeyやvioletmonkeyなどをインストールしてください。
-その後リリースからjsファイルをクリックしてインストール可能です。
+
+[mobile](https://greasyfork.org/en/scripts/503249-reddit-on-searxng-search-for-mobile)
+
+[PC](https://greasyfork.org/en/scripts/503249-reddit-on-searxng-search-for-mobile)
+
 
 # Please give the repo a ⭐
 
