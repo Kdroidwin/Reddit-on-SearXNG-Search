@@ -16,6 +16,7 @@ searXNGでredditだけに絞り込んだ検索を行う
 [PC](https://greasyfork.org/en/scripts/503249-reddit-on-searxng-search-for-mobile)
 
 
-# Please give the repo a ⭐
 
+# 連絡
+https://kdroidwin.hatenablog.com
 
