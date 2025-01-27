@@ -13,7 +13,7 @@ searXNGでredditだけに絞り込んだ検索を行う
 
 [mobile](https://greasyfork.org/en/scripts/503249-reddit-on-searxng-search-for-mobile)
 
-[PC](https://greasyfork.org/en/scripts/503249-reddit-on-searxng-search-for-mobile)
+[PC](https://greasyfork.org/en/scripts/503250-reddit-on-searxng-search)
 
 
 
