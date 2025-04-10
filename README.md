@@ -4,10 +4,7 @@ searXNGでredditだけに絞り込んだ検索を行う
 
 
 # Supported sites （対応サイト）
-- priv.au
-- search.inetol.net
-- searx.tiekoetter.com
-
+- greasyforkで確認してください。
 # Install
 まずtampermonkeyやvioletmonkeyなどをインストールしてください。
 
